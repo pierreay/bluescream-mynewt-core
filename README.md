@@ -19,7 +19,7 @@
 #
 -->
 
-# BlueScream: Screaming Channels on Bluetooth Low Energy -- Nimble (Core)
+# BlueScream: Screaming Channels on Bluetooth Low Energy -- MyNewt: Core
 
 ## About
 
